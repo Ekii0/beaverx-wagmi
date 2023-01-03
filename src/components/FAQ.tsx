@@ -40,12 +40,12 @@ export function FAQ() {
       Q: <>Can I transfer my NFT?</>,
       A: (
         <>
-          Yes! You can transfer your NFT like any other token. But don't forget
-          that the prize will be sent to the owner of the NFT when the rafle is
-          drawn, not to the one who minted the NFT! So if you'd like to give
-          someone the chance to win the prize, then go ahead and transfer your
-          NFT any time. Otherwise, you should probably wait for the end of the
-          raffle!
+          Yes! You can transfer your NFT like any other token. But don&apos;t
+          forget that the prize will be sent to the owner of the NFT when the
+          rafle is drawn, not to the one who minted the NFT! So if you&apos;d
+          like to give someone the chance to win the prize, then go ahead and
+          transfer your NFT any time. Otherwise, you should probably wait for
+          the end of the raffle!
         </>
       ),
     },
@@ -68,27 +68,38 @@ export function FAQ() {
           Short answer: Yes, it is safe to interact with this site and the smart
           contract as no part of the code will ever access your assets. But as
           always, take caution, never give away your seed phrase and disconnect
-          from the site once you're done.
-          <p>
-            Long answer: Instead of trusting me that I created a secure frontend
-            and smart contract, you can (and probably should!) check all
-            available code bases and see for yourself what exactly the code is
-            doing that you want to interact with to minimize any risks. If you
-            find anything that you perceive as unsafe to interact with, please
-            reach out to me on Discord or Twitter. I am more than happy to learn
-            about the troubles you might be facing, and if there is anything I
-            can do to improve my code! So please check out my{" "}
-            <a href="https://github.com/Ekii0" target="_blank">
-              GitHub
-            </a>{" "}
-            for the repositories associated with this project! You will find the
-            smart contract code{" "}
-            <a href="https://github.com/Ekii0/BeaverNFT" target="_blank">
-              here
-            </a>{" "}
-            and all the frontend stuff{" "}
-            <a href="https://github.com/Ekii0/beaverx-nft-latest">here</a>!
-          </p>
+          from the site once you&apos;re done.
+          <br />
+          <br />
+          Long answer: Instead of trusting me that I created a secure frontend
+          and smart contract, you can (and probably should!) check all available
+          code bases and see for yourself what exactly the code is doing that
+          you want to interact with to minimize any risks. If you find anything
+          that you perceive as unsafe to interact with, please reach out to me
+          on Discord or Twitter. I am more than happy to learn about the
+          troubles you might be facing, and if there is anything I can do to
+          improve my code! So please check out my{" "}
+          <a href="https://github.com/Ekii0" target="_blank" rel="noreferrer">
+            GitHub
+          </a>{" "}
+          for the repositories associated with this project! You will find the
+          smart contract code{" "}
+          <a
+            href="https://github.com/Ekii0/BeaverNFT"
+            target="_blank"
+            rel="noreferrer"
+          >
+            here
+          </a>{" "}
+          and all the frontend stuff{" "}
+          <a
+            href="https://github.com/Ekii0/beaverx-nft-latest"
+            target="_blank"
+            rel="noreferrer"
+          >
+            here
+          </a>
+          !
         </>
       ),
     },
@@ -101,6 +112,7 @@ export function FAQ() {
           <a
             href="https://bscscan.com/address/0x92a6Fd4d16c5A55C9f138DA1Db7A99254148c829#code"
             target="_blank"
+            rel="noreferrer"
           >
             bscscan
           </a>
@@ -113,7 +125,7 @@ export function FAQ() {
       A: (
         <>
           This is a little fullstack Web3 coding project by{" "}
-          <a href="https://twitter.com/ekiio6" target="_blank">
+          <a href="https://twitter.com/ekiio6" target="_blank" rel="noreferrer">
             ekiio
           </a>
           . All code has been written by me. The BeaverX illustration has been

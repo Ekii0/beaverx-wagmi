@@ -59,7 +59,7 @@ export function NFTFactory() {
   useEffect(() => {
     const interval = setInterval(refetch, 15000);
     return () => clearInterval(interval);
-  }, []);
+  }, [refetch]);
 
   const { data: getWinner, isError: getWinnerError } = useContractRead({
     abi: abi,
