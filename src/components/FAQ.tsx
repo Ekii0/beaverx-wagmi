@@ -62,6 +62,32 @@ export function FAQ() {
       ),
     },
     {
+      Q: <>Can I mint my NFT with my StrikeXWallet?</>,
+      A: (
+        <>
+          That&apos;s indeed possible! Your NFT won&apos;t show up, though,
+          until NFTs will be integrated into the StrikeXWallet. But fret not,
+          your beaver is living happily on the blockchain and can be viewed on
+          many NFT marketplaces like OpenSea or tofuNFT in the meantime. I am
+          also working on a little NFT showroom, so you will have a place where
+          all your beavers can come together and frolic!
+        </>
+      ),
+    },
+    {
+      Q: <>How can I connect my StrikeXWallet to your site?</>,
+      A: (
+        <>
+          You will need two devices for this. That&apos;s because you will need
+          to scan the WalletConnect QR image with the device on which you have
+          installed your StrikeXWallet. Currently it is not possible to open the
+          deep link provided by WalletConnect from the same device you have your
+          StrikeXWallet on, so this is a workaround to connect your
+          StrikeXWallet.
+        </>
+      ),
+    },
+    {
       Q: <>Is it safe to interact with this site?</>,
       A: (
         <>
